@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GPS</string>
+
+    <string name="longitude_label">經度：</string>
+    <string name="latitude_label">緯度：</string>
+    <string name="address_label">地址：</string>
+</resources>
